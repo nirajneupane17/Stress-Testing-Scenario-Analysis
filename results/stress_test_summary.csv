@@ -1,0 +1,7 @@
+Scenario,Portfolio_PnL_pct,SPY_shock,QQQ_shock,TLT_shock,GLD_shock,EFA_shock,Exceeds_VaR99,Exceeds_ES99
+Severe Recession,-19.5,-35.0,-40.0,15.0,5.0,-30.0,True,True
+Stagflation,-13.95,-20.0,-25.0,-15.0,20.0,-18.0,True,True
+Rate Shock +300bps,-13.4,-12.0,-15.0,-22.0,-5.0,-10.0,True,True
+Credit Crisis,-13.35,-25.0,-28.000000000000004,10.0,8.0,-22.0,True,True
+Equity Crash -40%,-21.4,-40.0,-45.0,18.0,10.0,-35.0,True,True
+Russia-Ukraine,-7.05,-8.0,-12.0,-8.0,12.0,-15.0,True,True
